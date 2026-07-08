@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/naveenrajapaksha/naveenrajapaksha/main/Dev.gif" alt="Developer gif" />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Naveen Rajapaksha</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer</h3>
 
